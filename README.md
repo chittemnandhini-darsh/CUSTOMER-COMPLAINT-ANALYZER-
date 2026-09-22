@@ -123,7 +123,17 @@ Assign the complaint to the appropriate
 support department.
 
 
+
+
+
+
+
+
+
 <img width="922" height="296" alt="Screenshot 2026-09-22 202515" src="https://github.com/user-attachments/assets/362f6542-51ec-4904-981d-103e9e952b79" />
+
+
+
 <img width="914" height="384" alt="Screenshot 2026-09-22 202551" src="https://github.com/user-attachments/assets/626378bc-2f7d-4cb4-9659-ea1e7a30483e" />
 
 
